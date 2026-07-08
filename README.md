@@ -6,14 +6,13 @@
 ## 📊 Ekran Görüntüleri / Screenshots
 
 ### Giriş Arayüzü (Main Menu)
-![Giriş Arayüzü](images/image_3a8f06.png)
+![Giriş Arayüzü](images/Ekran%20görüntüsü%202026-07-08%20213335.png)
 
-### Oyun Alanı ve Satır Temizleme Mekaniği (Gameplay & Row Clear)
-![Oyun Alanı](images/image_3a8f44.png)
+### Oyun Alanı (Gameplay)
+![Oyun Alanı](images/Ekran%20görüntüsü%202026-07-08%20213346.png)
 
-### Market ve Joker Sistemi (In-Game Store & Power-ups)
-![Market Arayüzü](images/image_3a8f26.png)
-
+### Market ve Joker Sistemi (In-Game Store)
+![Market Arayüzü](images/Ekran%20görüntüsü%202026-07-08%20213356.png)
 ---
 
 ## 🚀 Özellikler (Turkish)
