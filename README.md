@@ -9,10 +9,10 @@
 ![Giriş Arayüzü](images/Ekran%20görüntüsü%202026-07-08%20213335.png)
 
 ### Oyun Alanı (Gameplay)
-![Oyun Alanı](images/Ekran%20görüntüsü%202026-07-08%20213346.png)
+![Market Arayüzü](images/Ekran%20görüntüsü%202026-07-08%20213346.png)
 
 ### Market ve Joker Sistemi (In-Game Store)
-![Market Arayüzü](images/Ekran%20görüntüsü%202026-07-08%20213356.png)
+![Oyun Alanı](images/Ekran%20görüntüsü%202026-07-08%20213356.png)
 ---
 
 ## 🚀 Özellikler (Turkish)
